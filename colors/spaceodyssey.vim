@@ -7,7 +7,7 @@ if exists('syntax_on')
 endif
 let g:colors_name='spaceodyssey'
 
-hi ColorColumn guifg=NONE ctermfg=NONE guibg=#1c2023 ctermbg=234 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=#2d3439 ctermbg=236 gui=NONE cterm=NONE
 hi Cursor guifg=#1c2023 ctermfg=234 guibg=#d8dee9 ctermbg=254 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#1c2023 ctermbg=234 gui=NONE cterm=NONE
 hi Error guifg=#d8dee9 ctermfg=254 guibg=#bf616a ctermbg=131 gui=NONE cterm=NONE

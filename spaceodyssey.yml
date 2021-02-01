@@ -32,7 +32,7 @@ palette:
 highlights:
 
     # Editor
-    ColorColumn: "- spaceodyssey1"
+    ColorColumn: "- spaceodyssey2"
     Cursor: "spaceodyssey0 spaceodyssey4"
     CursorLine: "- spaceodyssey1"
     Error: "spaceodyssey4 spaceodyssey11"
