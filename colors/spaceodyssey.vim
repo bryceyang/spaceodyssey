@@ -20,10 +20,14 @@ hi PmenuSbar guifg=#eceff4 ctermfg=255 guibg=#2d3439 ctermbg=236 gui=NONE cterm=
 hi PmenuSel guifg=#eceff4 ctermfg=255 guibg=#2d3439 ctermbg=236 gui=NONE cterm=NONE
 hi PmenuThumb guifg=#eceff4 ctermfg=255 guibg=#697884 ctermbg=66 gui=NONE cterm=NONE
 hi SpecialKey guifg=#4e5961 ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi SpellBad guifg=#bf616a ctermfg=131 guibg=#1c2023 ctermbg=234 gui=underline cterm=underline
-hi SpellCap guifg=#ebcb8b ctermfg=222 guibg=#88c0d0 ctermbg=110 gui=underline cterm=underline
-hi SpellLocal guifg=#e5e9f0 ctermfg=255 guibg=#1c2023 ctermbg=234 gui=underline cterm=underline
-hi SpellRare guifg=#eceff4 ctermfg=255 guibg=#1c2023 ctermbg=234 gui=underline cterm=underline
+" hi SpellBad guifg=#bf616a ctermfg=131 guibg=#1c2023 ctermbg=234 gui=underline cterm=underline
+" hi SpellCap guifg=#ebcb8b ctermfg=222 guibg=#88c0d0 ctermbg=110 gui=underline cterm=underline
+" hi SpellLocal guifg=#e5e9f0 ctermfg=255 guibg=#1c2023 ctermbg=234 gui=underline cterm=underline
+" hi SpellRare guifg=#eceff4 ctermfg=255 guibg=#1c2023 ctermbg=234 gui=underline cterm=underline
+hi SpellBad guifg=#bf616a ctermfg=131 guibg=#1c2023 ctermbg=234
+hi SpellCap guifg=#ebcb8b ctermfg=222 guibg=#88c0d0 ctermbg=110
+hi SpellLocal guifg=#e5e9f0 ctermfg=255 guibg=#1c2023 ctermbg=234
+hi SpellRare guifg=#eceff4 ctermfg=255 guibg=#1c2023 ctermbg=234
 hi Visual guifg=NONE ctermfg=NONE guibg=#2d3439 ctermbg=236 gui=NONE cterm=NONE
 hi VisualNOS guifg=NONE ctermfg=NONE guibg=#2d3439 ctermbg=236 gui=NONE cterm=NONE
 hi QuickFixLine guifg=#1c2023 ctermfg=234 guibg=#ebcb8b ctermbg=222 gui=NONE cterm=NONE
@@ -100,7 +104,8 @@ hi diffOldFile guifg=#bf616a ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi gitconfigVariable guifg=#96b4b5 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi debugPc guifg=NONE ctermfg=NONE guibg=#96b4b5 ctermbg=109 gui=NONE cterm=NONE
 hi debugBreakpoint guifg=#bf616a ctermfg=131 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
-hi TSError guifg=#bf616a ctermfg=131 guibg=NONE ctermbg=NONE gui=underline cterm=underline
+" hi TSError guifg=#bf616a ctermfg=131 guibg=NONE ctermbg=NONE gui=underline cterm=underline
+hi TSError guifg=#bf616a ctermfg=131 guibg=NONE ctermbg=NONE
 hi TSPunctDelimiter guifg=#81a1c1 ctermfg=109 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctBracket guifg=#eceff4 ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctSpecial guifg=#eceff4 ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
